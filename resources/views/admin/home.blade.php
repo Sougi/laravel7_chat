@@ -18,7 +18,7 @@
 
             <div class="w-full p-6">
                 <p class="text-gray-700">
-                    You are logged in user!
+                    You are logged in as admin!
                 </p>
             </div>
         </section>
